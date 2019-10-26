@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/www', function () {
+Route::get('/www1', function () {
     return view('welcome');
 });
 
